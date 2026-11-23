@@ -1,0 +1,16 @@
+# Python virtual environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Editor / IDE local settings (keep machine-specific paths out of git)
+.vscode/
+.idea/
+pyrefly.toml
+
+# OS generated files
+.DS_Store
+Thumbs.db
